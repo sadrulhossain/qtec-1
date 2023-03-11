@@ -1,4 +1,4 @@
-#[Qtec Problem 1]
+#Qtec Problem 1
 
 Step 1: Create an ORM Data Model in Laravel for User Search History in an imagined Search Engine. Could be a very simple and small search engine with search results. You can store anything[fields] you want. Like, search keyword, which used searched, what time.. What results came after searching.. etc.. Add as many fields as you like. 
 
